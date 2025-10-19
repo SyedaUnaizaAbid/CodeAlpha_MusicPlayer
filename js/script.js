@@ -222,3 +222,4 @@ function updatePlayingSong() {
   const currentAudioTag = currentLi.querySelector(".audio-duration");
   currentAudioTag.innerText = "Playing";
 }
+
